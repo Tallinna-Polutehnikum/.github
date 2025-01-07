@@ -1,12 +1,12 @@
 ## Tallinna Polütehnikum Githubis
 
-<!--
+Meie GitHubi organisatsioon koondab erinevaid projekte ja õppematerjale, mis on loodud nii õpilaste kui ka õpetajate poolt. Siit leiate mitmesuguseid õppematerjale ja näidisprojekte, mis toetavad meie õppekavasid ja aitavad kaasa praktiliste oskuste omandamisele.
 
-**Here are some ideas to get you started:**
+Tallinna Polütehnikum on GitHub Campus partnerkool, mis võimaldab meie õpilastel kasutada kõiki GitHub Campus Student Developer Pack'i võimalusi.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Lisainformatsiooni saamiseks külastage meie [kodulehte](https://www.tptlive.ee/).**
+
+## Tähtsad lingid
+
+**[tahvel-userscripts](https://github.com/Tallinna-Polutehnikum/tahvel-userscripts)**  
+- Skript, mis täiustab **Tahvel** õppeinfosüsteemi õpetajate tööriistu. See skript lihtsustab õpetajate igapäevaseid ülesandeid, pakkudes neile mugavamaid funktsioone. Skripti kasutamiseks on vajalik **Tampermonkey** laiendus.
